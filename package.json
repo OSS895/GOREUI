@@ -1,0 +1,23 @@
+{
+  "name": "goreui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OSS895/GOREUI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OSS895/GOREUI/issues"
+  },
+  "homepage": "https://github.com/OSS895/GOREUI#readme",
+  "description": "React Components Library for Mobile and Web Platforms",
+  "workspaces": [
+    "packages/web",
+    "packages/mobile"
+  ]
+}
